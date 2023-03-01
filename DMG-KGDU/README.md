@@ -17,7 +17,7 @@ This board features a 44-pin ROM and a 28-pin RAM module.
 | U3    | SOIC-28W    | SRAM         | ~8.3mm wide |
 | U4    | SOIC-8      | System Reset | ~4.3mm wide |
 | C1,C2 | 0603 (in)   | 15pF Capacitor | |
-| C3, C4, C5, C6 | 0603 (in) | 0.1pF Capacitor | |
+| C3, C4, C5, C6 | 0603 (in) | 15nF Capacitor | Anything up to 0.1μF is supproted |
 | R1    | 0603 (in)   | 1kOhm Resistor | |
 | R2    | 0603 (in)   | 330kOhm Resistor | |
 | X1    | 6mm x 2mm   | 32.768 kHZ Cystal | 12.5 pF Load and 35 kOhm ESR |
