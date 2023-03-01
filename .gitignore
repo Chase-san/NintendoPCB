@@ -1,0 +1,7 @@
+.directory
+ *-backups
+*.zip
+raw_*.png
+ref_*.png
+*.kra
+*-cache

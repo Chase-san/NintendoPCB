@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Nintendo")(type "KiCad")(uri "/home/rmaupin/Projects/KiCAD/NintendoPCB/Nintendo.pretty")(options "")(descr ""))
+)
